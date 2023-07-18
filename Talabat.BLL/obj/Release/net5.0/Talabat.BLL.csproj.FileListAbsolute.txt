@@ -1,0 +1,15 @@
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\bin\Release\net5.0\Talabat.BLL.deps.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\bin\Release\net5.0\Talabat.BLL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\bin\Release\net5.0\ref\Talabat.BLL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\bin\Release\net5.0\Talabat.BLL.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\bin\Release\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\bin\Release\net5.0\Talabat.DAL.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.AssemblyInfo.cs
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.csproj.CopyComplete
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\ref\Talabat.BLL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.BLL\obj\Release\net5.0\Talabat.BLL.pdb

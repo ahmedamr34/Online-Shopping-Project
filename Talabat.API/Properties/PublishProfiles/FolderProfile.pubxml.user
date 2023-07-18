@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Route\Cycle 37\TalabatPublishedAPI</_PublishTargetUrl>
+    <History>True|2022-08-16T06:41:05.3961626Z;True|2022-08-16T08:29:16.0514848+02:00;True|2022-08-16T08:05:20.4481905+02:00;True|2022-08-15T12:43:45.0658173+02:00;True|2022-08-15T03:26:36.5746223+02:00;</History>
+  </PropertyGroup>
+</Project>

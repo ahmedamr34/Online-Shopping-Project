@@ -1,0 +1,250 @@
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\appsettings.json
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.exe
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.deps.json
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.runtimeconfig.json
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.runtimeconfig.dev.json
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\ref\Talabat.API.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Humanizer.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.BLL.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.BLL.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.AssemblyInfo.cs
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\scopedcss\bundle\Talabat.API.styles.css
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\Talabat.API.StaticWebAssets.Manifest.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.RazorTargetAssemblyInfo.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.CopyComplete
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\ref\Talabat.API.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.genruntimeconfig.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\appsettings.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.exe
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.deps.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.runtimeconfig.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.runtimeconfig.dev.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\ref\Talabat.API.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\AutoMapper.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Humanizer.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.BLL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.BLL.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.AssemblyInfo.cs
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\scopedcss\bundle\Talabat.API.styles.css
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\Talabat.API.StaticWebAssets.Manifest.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.RazorTargetAssemblyInfo.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.CopyComplete
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\ref\Talabat.API.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.genruntimeconfig.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.API\bin\Debug\net5.0\Stripe.net.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\appsettings.Development.json
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\appsettings.json
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.exe
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.deps.json
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.runtimeconfig.json
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.runtimeconfig.dev.json
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.API.pdb
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\AutoMapper.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Humanizer.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Stripe.net.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.BLL.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.DAL.dll
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.BLL.pdb
+D:\talabat project\Talabat Solution\Talabat.API\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.AssemblyReference.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.AssemblyInfoInputs.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.AssemblyInfo.cs
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.CoreCompileInputs.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cs
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\scopedcss\bundle\Talabat.API.styles.css
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\Talabat.API.StaticWebAssets.Manifest.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\Talabat.API.StaticWebAssets.Pack.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\msbuild.Talabat.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\msbuild.build.Talabat.API.props
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.API.props
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Talabat.API.props
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.RazorTargetAssemblyInfo.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.csproj.CopyComplete
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.dll
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\refint\Talabat.API.dll
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.pdb
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\Talabat.API.genruntimeconfig.cache
+D:\talabat project\Talabat Solution\Talabat.API\obj\Debug\net5.0\ref\Talabat.API.dll
